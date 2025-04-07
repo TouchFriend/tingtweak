@@ -1,0 +1,9 @@
+Package: com.cxz.tingtweak
+Name: tingtweak
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: touchWorld
+Author: touchWorld
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
